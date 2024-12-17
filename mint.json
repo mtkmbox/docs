@@ -39,6 +39,7 @@
       "name": "Documewqentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
+      "color":"red"
     },
     {
       "name": "Community",
